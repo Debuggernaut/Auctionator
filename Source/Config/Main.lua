@@ -90,7 +90,7 @@ Auctionator.Config.Defaults = {
   [Auctionator.Config.Options.POSTING_HISTORY_LENGTH] = 10,
 
   [Auctionator.Config.Options.SPLASH_SCREEN_VERSION] = "anything",
-  [Auctionator.Config.Options.HIDE_SPLASH_SCREEN] = false,
+  [Auctionator.Config.Options.HIDE_SPLASH_SCREEN] = true,
 
   [Auctionator.Config.Options.CANCEL_UNDERCUT_SHORTCUT] = "SPACE",
 
